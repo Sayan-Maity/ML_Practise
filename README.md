@@ -19,4 +19,24 @@ There are 3 main sections in the app as follows -
 
 3. <b>Big Billion Days Sale</b> - This section contains a total of 6 plots to showcase the insights of sale of products and products categories sold along with customer feedbacks and reviews for the same. The dataset is collected for Big Billion Days 2021 and analysis is drawn.
 
- 
+ `
+from sklearn.datasets import load_iris
+
+iris = load_iris()
+iris
+
+`
+
+This code gives:
+
+`
+
+{'data': array([[5.1, 3.5, 1.4, 0.2],
+                [4.9, 3. , 1.4, 0.2],
+                [4.7, 3.2, 1.3, 0.2],
+                [4.6, 3.1, 1.5, 0.2],...
+'target': array([0, 0, 0, ... 1, 1, 1, ... 2, 2, 2, ...
+'target_names': array(['setosa', 'versicolor', 'virginica'], dtype='<U10'), 
+...}
+
+`
