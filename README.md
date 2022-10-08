@@ -15,7 +15,7 @@
 </td>
 </tr>
 </table>
-
+Here I have used the iris flower dataset or <b> Fisher's Iris data set </b> to predict the flower type 
 
  ```
 from sklearn.datasets import load_iris
