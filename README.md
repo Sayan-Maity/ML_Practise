@@ -11,8 +11,8 @@
 <table>
 <tr>
 <td>
- Originally used as an example data set on which Fisher's linear discriminant analysis was applied, it became a typical test case for many statistical classification techniques in machine learning such as support vector machines
-<br></td>
+ Originally used as an example data set on which Fisher's linear discriminant analysis was applied, it became a typical test case for many statistical classification techniques in machine learning such as support vector machines \
+ </td>
 </tr>
 </table>
 Here I have used the <b>iris flower dataset</b> or <b>Fisher's Iris data set</b> to predict the flower species by its different labels like (1) sepal length, (2) sepal width, (3) petal length, (4) petal width and (5) species 
