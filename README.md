@@ -1,10 +1,11 @@
- ### main1 : 
+ ## All the different kinds of small ML practise projects are collected and pushed in this repo !
+ ### 1. main : 
  Diabetes Dataset on ML Practise \
  
- ### main2 : 
+ ### 2. main2 : 
  
  
- ### classifier1 : 
+ ### 3. classifier1 : 
  Classifier Problem on ML Practise :
 
 <table>
@@ -15,13 +16,7 @@
 </tr>
 </table>
 
-There are 3 main sections in the app as follows -
 
-1. <b>Social Media</b> - This section contains a total of 6 plots to display the analysis of sentiment counts and percentages via Histograms and Pie Charts for tweets, posts, contents extacted from social media platforms like Twitter, Reddit, LinkedIn using web scrapping tools like ParseHub, Apify. The data scrapped from different social media platforms are passed through a Recurrent Neural Network Sentiment Anlaysis Model with 99.2% accuracy to predict the results.
-
-2. <b>Top Products</b> - This section contains top 90 trendy electronics products on social media platforms like Facebook, Instagram using web scrapping tools like ParseHub, Apify and the details of the respective products taken from official site of Flipkart. The data scrapped from multiple social media platforms is used to match with products on flipkart and then details of those products are extracted.
-
-3. <b>Big Billion Days Sale</b> - This section contains a total of 6 plots to showcase the insights of sale of products and products categories sold along with customer feedbacks and reviews for the same. The dataset is collected for Big Billion Days 2021 and analysis is drawn.
 
  ```
 from sklearn.datasets import load_iris
