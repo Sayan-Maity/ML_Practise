@@ -15,10 +15,10 @@
  </td>
 </tr>
 </table>
-Here I have used the <b>iris flower dataset</b> or <b>Fisher's Iris data set</b> to predict the flower species by its different labels like (1) sepal length, (2) sepal width, (3) petal length, (4) petal width and (5) species <br>
+Here I have used the <b>iris flower dataset</b> or <b>Fisher's Iris data set</b> to predict the flower species by its different labels like (1) sepal length, (2) sepal width, (3) petal length, (4) petal width and (5) species 
 
- ```
-from sklearn.datasets import load_iris
+```
+<br>from sklearn.datasets import load_iris
 
 iris = load_iris()
 iris
