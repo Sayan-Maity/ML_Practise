@@ -1,6 +1,7 @@
- ## All the different kinds of small ML practise projects are collected and pushed in this repo !
+ ## All the my learnings and information regarding ML and small practise projects are pushed in this repo !
+ <br>
  ### 1. main : 
- Diabetes Dataset on ML Practise \
+ Diabetes Dataset on ML Practise 
  
  ### 2. main2 : 
  
@@ -15,7 +16,6 @@
 </td>
 </tr>
 </table>
-
 
 
  ```
