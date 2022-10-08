@@ -7,7 +7,6 @@
  
  
  ### 3. classifier1 : 
- Classifier Problem on ML Practise :
 
 <table>
 <tr>
