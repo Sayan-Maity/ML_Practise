@@ -1,18 +1,16 @@
- ## main1 : \
+ ### main1 : 
  Diabetes Dataset on ML Practise \
  
- ### main2 : \
+ ### main2 : 
  
  
- ## classifier1 : 
- Classifier Problem on ML Practise : Originally used as an example data set on which Fisher's linear discriminant analysis was applied, it became a typical test case for many statistical classification techniques in machine learning such as support vector machines
-
-## Overview of the App
+ ### classifier1 : 
+ Classifier Problem on ML Practise :
 
 <table>
 <tr>
 <td>
-This application can be used by Flipkart to get a detailed overall sentiment analysis of customer reviews for Flipkart products scrapped from multiple social media platforms like - Twitter, LinkedIn, Reddit. It also contains a section which displays the top 90 Electronics Products extracted from various social media platforms like Facebook and Instagram along with the details of the products taken from Flipkart. Additionally the application also gives meaningful insights from the analysis shown of the products sold and customer feedbacks during Flipkart Big Billion Days.
+ Originally used as an example data set on which Fisher's linear discriminant analysis was applied, it became a typical test case for many statistical classification techniques in machine learning such as support vector machines
 </td>
 </tr>
 </table>
