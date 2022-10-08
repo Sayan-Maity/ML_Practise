@@ -1,7 +1,7 @@
  ## main1 : \
  Diabetes Dataset on ML Practise \
  
- ## main2 : \
+ ### main2 : \
  
  
  ## classifier1 : 
