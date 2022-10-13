@@ -5,6 +5,8 @@
  
  ### 2. main2 : 
   Diabetes Dataset on ML ( Practise )
+  ![diabetes](https://raw.githubusercontent.com/Sayan-Maity/ML_Practise/tree/master/assets/diabetes.jpg) 
+  ![diabetes_2](https://raw.githubusercontent.com/Sayan-Maity/ML_Practise/tree/master/assets/diabetes_2.png) 
  
  ### 3. classifier1 : 
 
