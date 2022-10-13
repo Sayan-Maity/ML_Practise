@@ -36,3 +36,9 @@ This code gives:
 'target_names': array(['setosa', 'versicolor', 'virginica'], dtype='<U10'), 
 ...}
 ```
+
+
+### 3. logistic_regression :
+![logistic_regression](https://raw.githubusercontent.com/Sayan-Maity/ML_Practise/master/assets/logistic_regression.jpg) 
+ 
+ 
